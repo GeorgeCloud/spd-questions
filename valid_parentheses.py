@@ -13,3 +13,5 @@ class Solution:
 
         # if stack is empty then true else false
         return len(stack) == 0
+
+    
