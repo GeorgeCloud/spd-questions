@@ -25,3 +25,5 @@ class Solution(object):
             else:
                 # if out of bound return 0
                 return 0
+
+            
